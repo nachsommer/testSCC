@@ -1,1 +1,3 @@
 # testSCC
+
+Veränderungen sind zulässig.
